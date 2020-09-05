@@ -4,7 +4,7 @@
 
 ### Just a lazy kid who don't know how to code!
 
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true&theme=radical)
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true)
 
 
 ### Languages and Tools:
