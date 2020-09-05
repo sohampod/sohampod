@@ -4,7 +4,7 @@
 
 ### Just a lazy kid who don't know how to code!
 
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true&bg_color=#FF5858)
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true&bg_color=#f7d081)
 
 
 ### Languages and Tools:
