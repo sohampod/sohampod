@@ -20,11 +20,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sohampod&repo=sohampod)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohampod&layout=compact)
 
 
 
