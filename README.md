@@ -4,6 +4,8 @@
 
 ### Just a lazy kid who don't know how to code!
 
+[![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
