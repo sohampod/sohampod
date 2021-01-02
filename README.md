@@ -4,7 +4,7 @@
 
 ### Just a lazy kid who don't know how to code!
 
-<code><img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="crap" align="right" width="430x" height="430px"  /></code>&nbsp;
+<code><img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="crap" align="right" width="420x" height="420px"  /></code>&nbsp;
 
 ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true&bg_color=#f7d081)
 
