@@ -3,10 +3,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohampod%2F&count_bg=%2358B0FF&title_bg=%23FF5858&icon=github.svg&icon_color=%23FFFFFF&title=stalk+counts&edge_flat=false"/></a>
 
 ## Just a lazy kid who don't know how to code!
+<br/>
+<br/>
+
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true&bg_color=#f7d081)
 
 <code><img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="crap" align="right" width="330x" height="330px"  /></code>&nbsp;
 
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=sohampod&show_icons=true&bg_color=#f7d081)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohampod&layout=compact)
 
