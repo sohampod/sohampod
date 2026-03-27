@@ -1,6 +1,6 @@
 # Soham Poddar
 
-I build things that require a computer — and I mean that without restriction. Design, code, systems, infrastructure, the workflow that holds it all together. The discipline changes depending on what the problem needs. The thinking doesn't.
+I build things that require a computer and I mean that without restriction. Design, code, systems, infrastructure, the workflow that holds it all together. The discipline changes depending on what the problem needs. The thinking doesn't.
 
 ---
 
@@ -14,4 +14,4 @@ I build things that require a computer — and I mean that without restriction. 
 TypeScript · Node.js · React / Next.js · Python · LLM / agent tooling · scikit-learn
 
 **Find me**  
-[sohampod.github.io](https://sohampod.github.io) · [LinkedIn](https://www.linkedin.com/in/sohampoddar/) · open to work
+[sohampod.github.io](https://sohampod.github.io) · [LinkedIn](https://www.linkedin.com/in/sohampoddar/)
